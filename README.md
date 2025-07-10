@@ -1,5 +1,5 @@
 # school-portfolio
-<img src="Assets/KZH logo.jpg" width="300" alt="KZH logo"><br>
+<img src="assets/KZH logo.jpg" width="300" alt="KZH logo"><br>
 Above is our official team logo, which shows our teamwork and collaboration spirit.
 
 Contents
